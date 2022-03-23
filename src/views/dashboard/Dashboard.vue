@@ -1,7 +1,5 @@
 <template>
-  <div class="overview">
-    dashboard
-  </div>
+  <div class="dashboard">dashboard</div>
 </template>
 
 <script>
@@ -9,7 +7,7 @@ export default {};
 </script>
 
 <style scoped>
-.overview {
+.dashboard {
   display: flex;
   justify-content: center;
   align-items: center;
